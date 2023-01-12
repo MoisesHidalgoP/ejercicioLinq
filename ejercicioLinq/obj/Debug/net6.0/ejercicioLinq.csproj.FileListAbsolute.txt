@@ -1,0 +1,15 @@
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\bin\Debug\net6.0\ejercicioLinq.exe
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\bin\Debug\net6.0\ejercicioLinq.deps.json
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\bin\Debug\net6.0\ejercicioLinq.runtimeconfig.json
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\bin\Debug\net6.0\ejercicioLinq.dll
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\bin\Debug\net6.0\ejercicioLinq.pdb
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\obj\Debug\net6.0\ejercicioLinq.csproj.AssemblyReference.cache
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\obj\Debug\net6.0\ejercicioLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\obj\Debug\net6.0\ejercicioLinq.AssemblyInfoInputs.cache
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\obj\Debug\net6.0\ejercicioLinq.AssemblyInfo.cs
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\obj\Debug\net6.0\ejercicioLinq.csproj.CoreCompileInputs.cache
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\obj\Debug\net6.0\ejercicioLinq.dll
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\obj\Debug\net6.0\refint\ejercicioLinq.dll
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\obj\Debug\net6.0\ejercicioLinq.pdb
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\obj\Debug\net6.0\ejercicioLinq.genruntimeconfig.cache
+C:\Users\Moises Hidalgo\Desktop\.Net\ejercicioLinq\ejercicioLinq\obj\Debug\net6.0\ref\ejercicioLinq.dll
